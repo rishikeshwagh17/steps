@@ -1,3 +1,10 @@
+# Cloning a Project [what to do to run it]
+if you are going to clone this project you will find there will be no node modules because we ignore it in our gitignore and it is not pushed in github
+you will first have to do npm install in this folder where you find package.json file it is where all dependecies are stored for react.
+
+# Project Image -
+![image](https://github.com/user-attachments/assets/ece11145-01a8-41fa-9977-9c76eaef47f9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
